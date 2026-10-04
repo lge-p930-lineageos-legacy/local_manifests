@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="kernel/lge/iproj" name="ExtremeXBB/lge-kernel-iproj" />
-  <project path="device/lge/iprj-common" name="ExtremeXBB/android_device_lge_iprj-common" />
+  <project path="kernel/lge/iproj" name="lge-p930-lineageos-legacy/lge-kernel-iproj" />
+  <project path="device/lge/iprj-common" name="lge-p930-lineageos-legacy/android_device_lge_iprj-common" />
 </manifest>
